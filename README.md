@@ -13,3 +13,6 @@ A Lucas-Lehmer Primality Test running on Golem in C++.
 * `py requestor.py`
 * Enter a number **p** from a known [mersenne prime](https://www.mersenne.org/primes/) or any number you'd like to try
 * You will see an output whether it's a valid mersenne prime or not :)
+
+## Credits
+This was made possible with the help of collaborative work in [this Discord Server](https://discord.gg/zFEKQRfJUz). Major contributors are krunch3r and jedbrooke.
